@@ -1,0 +1,17 @@
+.book {
+  display: flex;
+  flex-direction: column;
+}
+
+.books {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.delete-btn {
+  margin: auto;
+}
+
+img {
+  display: block;
+}
